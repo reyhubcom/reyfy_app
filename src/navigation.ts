@@ -24,11 +24,11 @@ export const headerData = {
       ],
     },
     {
-      text: 'Pages',
+      text: 'DeFi',
       links: [
         {
-          text: 'Features (Anchor Link)',
-          href: getPermalink('/#features'),
+          text: 'Solana DeFi Ecosystem',
+          href: getPermalink('/sol'),
         },
         {
           text: 'Services',
