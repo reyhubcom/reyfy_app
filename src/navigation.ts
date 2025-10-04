@@ -115,7 +115,7 @@ export const headerData = {
       href: '/homes/cbubble',
     },
   ],
-  actions: [{ text: 'EXCHANGE', href: '/home/exchange', target: '_blank' }],
+  actions: [{ text: 'EXCHANGE', href: '/exchange', target: '_blank' }],
 };
 
 export const footerData = {
