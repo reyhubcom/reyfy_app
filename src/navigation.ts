@@ -43,8 +43,8 @@ export const headerData = {
           href: getPermalink('/homes/pol'),
         },
         {
-          text: 'Contact',
-          href: getPermalink('/contact'),
+          text: 'Avalanche DeFi',
+          href: getPermalink('/homes/avax'),
         },
         {
           text: 'Terms',
