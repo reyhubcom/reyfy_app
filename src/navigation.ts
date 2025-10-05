@@ -39,7 +39,7 @@ export const headerData = {
           href: getPermalink('/homes/bnb'),
         },
         {
-          text: 'About us',
+          text: 'Polygon DeFi',
           href: getPermalink('/about'),
         },
         {
