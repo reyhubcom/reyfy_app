@@ -35,8 +35,8 @@ export const headerData = {
           href: getPermalink('/homes/eth'),
         },
         {
-          text: 'Pricing',
-          href: getPermalink('/pricing'),
+          text: 'Binance DeFi',
+          href: getPermalink('/homes/bnb'),
         },
         {
           text: 'About us',
