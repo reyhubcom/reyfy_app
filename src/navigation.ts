@@ -28,7 +28,7 @@ export const headerData = {
       links: [
         {
           text: 'Solana DeFi Ecosystem',
-          href: getPermalink('/sol'),
+          href: getPermalink('/homes/sol'),
         },
         {
           text: 'Services',
