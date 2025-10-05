@@ -32,7 +32,7 @@ export const headerData = {
         },
         {
           text: 'Ethereum DeFi',
-          href: getPermalink('/home/eth'),
+          href: getPermalink('/homes/eth'),
         },
         {
           text: 'Pricing',
