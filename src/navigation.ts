@@ -27,12 +27,12 @@ export const headerData = {
       text: 'DeFi',
       links: [
         {
-          text: 'Solana DeFi Ecosystem',
+          text: 'Solana DeFi ',
           href: getPermalink('/homes/sol'),
         },
         {
-          text: 'Services',
-          href: getPermalink('/services'),
+          text: 'Ethereum DeFi',
+          href: getPermalink('/home/eth'),
         },
         {
           text: 'Pricing',
@@ -115,7 +115,7 @@ export const headerData = {
       href: '/homes/cbubble',
     },
   ],
-  actions: [{ text: 'EXCHANGE', href: '/exchange', target: '_blank' }],
+  actions: [{ text: 'APP STAKING', href: 'https://linktr.ee/reystaking', target: '_blank' }],
 };
 
 export const footerData = {
