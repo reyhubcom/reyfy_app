@@ -27,36 +27,36 @@ const metadata = {
       {
         variant: 'secondary',
         target: '_blank',
-        text: 'Jupiter',
-        href: 'https://jup.ag/',
+        text: 'KyberSwap',
+        href: 'https://github.com/arthelokyo/astrowind',
         icon: 'tabler:link',
       },
       {
         variant: 'secondary',
         target: '_blank',
         text: 'KyberSwap',
-        href: 'https://kyberswap.com/',
+        href: 'https://github.com/arthelokyo/astrowind',
         icon: 'tabler:link',
       },
        {
         variant: 'secondary',
         target: '_blank',
-        text: 'Drift Protocol',
-        href: 'https://app.drift.trade/',
+        text: 'KyberSwap',
+        href: 'https://github.com/arthelokyo/astrowind',
         icon: 'tabler:link',
       },
        {
         variant: 'secondary',
         target: '_blank',
-        text: 'Raydium',
-        href: 'https://raydium.io/',
+        text: 'KyberSwap',
+        href: 'https://github.com/arthelokyo/astrowind',
         icon: 'tabler:link',
       },
        {
         variant: 'secondary',
         target: '_blank',
         text: 'ORCA',
-        href: 'https://www.orca.so/',
+        href: 'https://github.com/arthelokyo/astrowind',
         icon: 'tabler:link',
       },
     ]}
@@ -102,7 +102,7 @@ const metadata = {
   </script>
 </div>
 <!-- TradingView Widget END -->
-      <span class="font-semibold"> </span> DeFi is the movement that leverages decentralized networks to transform old financial products into trustless and transparent protocols that run without intermediaries. We have 188 DeFi projects listed and 20 of them built on Solana..
+     DeFi is the movement that leverages <span class="font-semibold">Decentralized </span>  networks to transform old financial products into trustless and transparent protocols that run without intermediaries. We have 188 DeFi projects listed and 20 of them built on Solana..
     </Fragment>
 
     <Fragment slot="image">
