@@ -14,7 +14,7 @@ import Brands from '~/components/widgets/Brands.astro';
 import { YouTube } from 'astro-embed';
 
 const metadata = {
-  title: 'Solana DeFi Ecosystem',
+  title: 'Solana Chart Price',
 };
 ---
 
@@ -57,6 +57,13 @@ const metadata = {
         target: '_blank',
         text: 'ORCA',
         href: 'https://www.orca.so/',
+        icon: 'tabler:link',
+      },
+       {
+        variant: 'secondary',
+        target: '_blank',
+        text: 'Zeta',
+        href: 'https://zeta.markets/',
         icon: 'tabler:link',
       },
     ]}
@@ -123,45 +130,6 @@ const metadata = {
 
   <!-- Stats Widget ****************** -->
 
- <Hero
-    tagline=""
-     actions={[
-      {
-        variant: 'secondary',
-        target: '_blank',
-        text: 'Jupiter',
-        href: 'https://jup.ag/',
-        icon: 'tabler:link',
-      },
-      {
-        variant: 'secondary',
-        target: '_blank',
-        text: 'Kyber',
-        href: 'https://kyberswap.com/',
-        icon: 'tabler:link',
-      },
-       {
-        variant: 'secondary',
-        target: '_blank',
-        text: 'Drift',
-        href: 'https://app.drift.trade/',
-        icon: 'tabler:link',
-      },
-       {
-        variant: 'secondary',
-        target: '_blank',
-        text: 'Raydium',
-        href: 'https://raydium.io/',
-        icon: 'tabler:link',
-      },
-       {
-        variant: 'secondary',
-        target: '_blank',
-        text: 'ORCA',
-        href: 'https://www.orca.so/',
-        icon: 'tabler:link',
-      },
-    ]}
-  >
+ 
   
 </Layout>
