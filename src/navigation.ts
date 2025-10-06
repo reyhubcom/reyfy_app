@@ -47,8 +47,8 @@ export const headerData = {
           href: getPermalink('/homes/avax'),
         },
         {
-          text: 'Terms',
-          href: getPermalink('/terms'),
+          text: 'Arbitrum DeFi',
+          href: getPermalink('/homes/arb'),
         },
         {
           text: 'Privacy policy',
